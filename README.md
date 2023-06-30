@@ -1,2 +1,7 @@
-# EDA
-may project for this couurs https://stepik.org/course/176820/syllabus
+### Файлы:
+- data.py - Методы для препроцессинга данных
+- model.py - Методы для обучения модели
+- main.py - GUI обертка поекта
+- pred.csv - костыли что бы работала загрузка модели и предсказаниие
+- Model\cat_model - обученная модель для catboost
+- Model\st.csv - Статистические данные по датасету(min, max, mean, median)
